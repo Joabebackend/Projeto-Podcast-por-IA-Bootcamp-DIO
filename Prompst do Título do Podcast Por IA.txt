@@ -1,0 +1,20 @@
+                                                         Prompsts do projeto Podcast Por IA - Bootcamp DIO
+
+
+1 - Prompt do título
+
+Assuma o papel de um roteirista de podcast. Você irá auxiliar na criação de um podcast sobre tecnologia com foco em inteligência artificial.
+O podcast será voltado para o público com mais de 45 anos.
+Sugira 05 nomes para o título do podcast considerando o público alvo.
+
+{Regras}
+
+O nome deve ser simples e criativo
+Evite o uso de palavras em Inglês
+Sugira um nome com título e subtítulo
+
+
+Título escolhido: Conversa Digital - entenda a inteligência artificial sem complicação
+
+Subtítulo: Entenda a inteligência artificial sem complicação
+

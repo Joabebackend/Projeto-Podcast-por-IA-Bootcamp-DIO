@@ -1,0 +1,73 @@
+
+Prompt de roteiro
+
+Assuma o papel de um roteirista de podcast experiente. Crie um roteiro para um podcast de tecnologia chamado "Conversa Digital - entenda a inteligência artificial sem complicação" 
+ com foco em inteligência artificial voltado para o público com mais de 45 anos. O formato do roteiro deve ser: [INTRODUÇÃO] , [CURIOSIDADE 1] , [CURIOSIDADE 2], [FINALIZAÇÃO]. 
+{Regras}
+Use palavras simples
+O podcast será apresentado por apenas uma pessoa
+O podcast deve ter a duração de até 05 minutos
+No bloco [INTRODUÇÃO] substitua por uma introdução alegre, divertida, que remeta ao tema e objetivo do podcast.
+ No bloco [CURIOSIDADE1] substitua por uma explicação curta e objetiva sobre o que é inteligência artificial e sua importância atualmente na vida das pessoas.  
+No bloco [CURIOSIDADE2] substitua por exemplos de aplicações práticas, do dia a dia , da inteligência artificial.  
+No bloco [FINALIZAÇÃO] substitua por uma finalização do tipo " este foi o nosso Conversa digital da semana! eu sou Joabe Ribeiro e até a próxima!" 
+
+
+
+RESULTADO
+
+Claro, Joabe! Aqui está um roteiro completo e dentro das diretrizes para o seu podcast **"Conversa Digital – entenda a inteligência artificial sem complicação"**, voltado para o público acima de 45 anos, com linguagem acessível e descontraída:
+
+---
+
+🎙️ **ROTEIRO - PODCAST "CONVERSA DIGITAL"**
+🎧 **Episódio 1 – O que é Inteligência Artificial, afinal?**
+**Duração estimada: até 5 minutos**
+**Apresentador: Joabe Ribeiro**
+
+---
+
+### \[INTRODUÇÃO]
+
+Olá, olá! Seja muito bem-vindo ao **Conversa Digital**, o seu podcast para entender tecnologia e inteligência artificial sem complicação!
+Aqui a gente descomplica tudo pra você que já tem mais de 45 anos e quer entender esse mundo moderno sem precisar virar um "tech guru"!
+Aperte o cinto (ou melhor, coloque os fones!) e vem comigo, porque hoje a gente vai bater um papo rápido e direto sobre um assunto que parece complicado, mas que está mais presente na sua vida do que você imagina: **a inteligência artificial!**
+
+---
+
+### \[CURIOSIDADE 1 – O que é Inteligência Artificial?]
+
+Vamos direto ao ponto:
+**Inteligência artificial**, ou IA, é quando as máquinas aprendem a fazer tarefas que normalmente só os seres humanos fariam — como pensar, aprender, tomar decisões ou até conversar com a gente.
+
+Sabe quando você fala com a assistente do seu celular e ela responde com a previsão do tempo? Ou quando o YouTube recomenda um vídeo que você adora? Pois é… isso é IA trabalhando nos bastidores!
+
+Ela funciona como um cérebro eletrônico que aprende com dados e repete padrões. E o melhor: quanto mais ela aprende, mais inteligente fica.
+Hoje, a inteligência artificial está mudando a forma como vivemos, trabalhamos e até nos divertimos!
+
+---
+
+### \[CURIOSIDADE 2 – Onde a IA já aparece no nosso dia a dia?]
+
+Agora você pode estar pensando: "Mas onde isso tudo aparece na minha vida?". Vamos aos exemplos!
+
+🔹 **No celular**: Quando você fala "Ok Google" ou "Siri, tocar Roberto Carlos", a IA entende sua voz e faz o que você pediu.
+
+🔹 **Na TV**: Quando a Netflix ou o YouTube sugerem um filme ou vídeo baseado no que você já assistiu, adivinha? É a inteligência artificial te conhecendo melhor!
+
+🔹 **Na saúde**: Alguns exames e diagnósticos hoje contam com sistemas que ajudam os médicos a identificar doenças mais rapidamente.
+
+🔹 **No banco**: Aqueles atendentes virtuais que conversam com você no chat? Sim, são IAs treinadas para te ajudar.
+
+Viu só? A inteligência artificial já está ao nosso redor, facilitando a nossa vida sem a gente perceber.
+
+---
+
+### \[FINALIZAÇÃO]
+
+E assim termina o nosso **Conversa Digital** da semana!
+Espero que você tenha entendido um pouquinho mais sobre esse tal de inteligência artificial.
+Eu sou **Joabe Ribeiro**, e semana que vem a gente volta com mais um bate-papo simples e direto sobre tecnologia!
+Até a próxima, e não se esqueça: entender o mundo digital não tem idade, tem curiosidade! 👋😄
+
+
