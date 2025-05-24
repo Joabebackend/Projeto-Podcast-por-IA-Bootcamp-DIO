@@ -1,0 +1,6 @@
+Ferramentas utilizadas
+
+CHATGPT - criação dos prompts
+ELEVENLABS - criação de áudios
+CapCut - Edição e versão final de áudio
+Seaart.AI e Leonardo AI - Criação de imagens
